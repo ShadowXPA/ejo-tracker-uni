@@ -33,9 +33,9 @@ public final class Constants {
     public static final String AUTHOR_WEBSITE = "https://shadowxpa.github.io/";
     public static final String DOWNLOAD_LINK = "https://github.com/ShadowXPA/ejo-tracker-uni/releases/latest";
     public static final String EJO_TRACKER_LINK = "https://shadowxpa.github.io/ejo-tracker-uni/";
-    public static final String EJO_APP_NEWEST_VERSION = "https://shadowxpa.github.io/ejo-tracker-uni/version";
-    public static final String EJO_APP_PATCH_NOTES = "https://shadowxpa.github.io/ejo-tracker-uni/patch-notes";
-    public static final String EJO_SERVER_MESSAGE = "https://shadowxpa.github.io/ejo-tracker-uni/ejo-message";
+    public static final String EJO_APP_NEWEST_VERSION = "https://shadowxpa.github.io/ejo-tracker-uni/universal/version.txt";
+    public static final String EJO_APP_PATCH_NOTES = "https://shadowxpa.github.io/ejo-tracker-uni/universal/patch-notes";
+    public static final String EJO_SERVER_MESSAGE = "https://shadowxpa.github.io/ejo-tracker-uni/universal/ejo-message.html";
 
     private Constants() {
     }
