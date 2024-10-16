@@ -59,6 +59,7 @@ public class TrackerForm extends javax.swing.JFrame {
         initComponents();
         Init();
         MarqueeMessage = new JLabel();
+        MarqueeMessage.setText(TI.getTrackerMessage());
         marqueePanel1.setOpaque(false);
         marqueePanel1.add(MarqueeMessage);
         marqueePanel1.setScrollWhenFocused(false);
