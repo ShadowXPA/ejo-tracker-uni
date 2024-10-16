@@ -1,9 +1,13 @@
 package xpa.shadow.tracker;
 
-import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
-import javax.swing.event.*;
+import javax.swing.event.AncestorEvent;
+import javax.swing.event.AncestorListener;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
 
 /**
  * The MarqueePanel is used to scroll components from the right edge of the
@@ -40,9 +44,6 @@ public class MarqueePanel extends JPanel implements ActionListener, AncestorList
     /**
      * Create an AnimatedIcon that will continuously cycle with the default
      * (500ms).
-     *
-     * @param component the component the icon will be painted on
-     * @param icons	the Icons to be painted as part of the animation
      */
     public MarqueePanel(int scrollFrequency, int scrollAmount) {
         setScrollFrequency(scrollFrequency);
@@ -170,9 +171,9 @@ public class MarqueePanel extends JPanel implements ActionListener, AncestorList
     /**
      * Specify the scrolling property for unfocused windows.
      *
-     * @param scrollWhenVisible when true scrolling pauses when the window loses
-     * focus. Scrolling will continue when the window regains focus. When false
-     * scrolling is continuous unless the window is iconified.
+     * @param scrollWhenFocused when true scrolling pauses when the window loses
+     *                          focus. Scrolling will continue when the window regains focus. When false
+     *                          scrolling is continuous unless the window is iconified.
      */
     public void setScrollWhenFocused(boolean scrollWhenFocused) {
         this.scrollWhenFocused = scrollWhenFocused;

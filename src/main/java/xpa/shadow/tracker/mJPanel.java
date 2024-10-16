@@ -5,11 +5,8 @@
  */
 package xpa.shadow.tracker;
 
-import java.awt.Graphics;
-import java.awt.Image;
-import java.awt.LayoutManager;
-import java.awt.Toolkit;
-import javax.swing.JPanel;
+import javax.swing.*;
+import java.awt.*;
 
 /**
  *

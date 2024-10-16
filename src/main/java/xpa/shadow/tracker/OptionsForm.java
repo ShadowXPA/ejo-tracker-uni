@@ -5,12 +5,11 @@
  */
 package xpa.shadow.tracker;
 
-import java.awt.SystemTray;
-import java.awt.Toolkit;
-import java.awt.event.WindowEvent;
-import java.net.InetAddress;
 import javax.swing.*;
 import javax.swing.text.DefaultFormatterFactory;
+import java.awt.*;
+import java.awt.event.WindowEvent;
+import java.net.InetAddress;
 
 /**
  * @author ShadowXPA
