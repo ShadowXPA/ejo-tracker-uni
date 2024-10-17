@@ -1,0 +1,134 @@
+[
+  {
+    "NumRealPlayers": 2,
+    "NumPlayers": 6,
+    "Timestamp": 1558431265,
+    "NumBots": 4,
+    "Players": [
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^4[^7https://discord.gg/CfQs9CD"
+      },
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^4[^7www^4.^7ejoclan^4.^7tk^4]"
+      },
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^4[^7Eternal Jedi Order^4]"
+      },
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^7[EJO]^0Blackened"
+      },
+      {
+        "Score": 0,
+        "Ping": 51,
+        "IsBot": false,
+        "Name": "^0[EJO]^1Phoenix"
+      },
+      {
+        "Score": 0,
+        "Ping": 48,
+        "IsBot": false,
+        "Name": "Padawan"
+      }
+    ]
+  },
+  {
+    "NumRealPlayers": 2,
+    "NumPlayers": 6,
+    "Timestamp": 1558431295,
+    "NumBots": 4,
+    "Players": [
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^4[^7https://discord.gg/CfQs9CD"
+      },
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^4[^7www^4.^7ejoclan^4.^7tk^4]"
+      },
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^4[^7Eternal Jedi Order^4]"
+      },
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^7[EJO]^0Blackened"
+      },
+      {
+        "Score": 0,
+        "Ping": 60,
+        "IsBot": false,
+        "Name": "^0[EJO]^1Phoenix"
+      },
+      {
+        "Score": 0,
+        "Ping": 50,
+        "IsBot": false,
+        "Name": "Padawan"
+      }
+    ]
+  },
+  {
+    "NumRealPlayers": 2,
+    "NumPlayers": 6,
+    "Timestamp": 1558431326,
+    "NumBots": 4,
+    "Players": [
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^4[^7https://discord.gg/CfQs9CD"
+      },
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^4[^7www^4.^7ejoclan^4.^7tk^4]"
+      },
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^4[^7Eternal Jedi Order^4]"
+      },
+      {
+        "Score": 0,
+        "Ping": 0,
+        "IsBot": true,
+        "Name": "^7[EJO]^0Blackened"
+      },
+      {
+        "Score": 0,
+        "Ping": 58,
+        "IsBot": false,
+        "Name": "^0[EJO]^1Phoenix"
+      },
+      {
+        "Score": 0,
+        "Ping": 50,
+        "IsBot": false,
+        "Name": "Padawan"
+      }
+    ]
+  }
+]
